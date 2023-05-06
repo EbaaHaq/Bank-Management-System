@@ -1,2 +1,2 @@
 # Bank-Management-System
-Code implements basic banking system for adding clients, creating accounts, deposit/withdraw money &amp; getting info. Improvements include error handling for invalid inputs &amp; more features like money transfers between accounts. Data is stored and loaded using file handling.
+The given code implements a basic banking system where users can add clients, create accounts, withdraw/deposit money and get information about clients and bank. It uses file handling to store and load data about clients, accounts and bank information. The program can be improved by implementing error handling for invalid user inputs and incorporating more features like transferring money between accounts.

@@ -1,0 +1,1 @@
+Person{Name='Ali', CNIC='111', number='03314576556'}

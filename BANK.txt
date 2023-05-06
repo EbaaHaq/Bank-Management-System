@@ -1,0 +1,2 @@
+Bank{name='ABC', clients=[]}Bank{name='ABC', clients=[]}Bank{name='ABC', clients=[Client{Personal details[=Person{Name='Ali', CNIC='111', number='03314576556'}],
+Account details=[]}]}

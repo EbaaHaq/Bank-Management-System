@@ -1,0 +1,4 @@
+Client{Personal details[=Person{Name='Ali', CNIC='111', number='03314576556'}],
+Account details=[Account{Account Number=AC0, Amount=1.0, Account holder=111}]}
+Client{Personal details[=Person{Name='Ali', CNIC='111', number='03314576556'}],
+Account details=[Account{Account Number=AC0, Amount=1.0, Account holder=111}]}
